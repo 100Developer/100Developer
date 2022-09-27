@@ -31,8 +31,10 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>
-  
-
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iTerm2-000000?style=flat-square&logo=iTerm2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iTerm2-000000?style=flat-square&logo=iTerm2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white"/>
 </p>
 
 
@@ -41,7 +43,6 @@
  <img src="https://img.shields.io/badge/Google Analytics-E37400?style=flat-square&logo=Google Analytics&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google Tag Manager-246FDB?style=flat-square&logo=Google Tag Manager&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google Optimize-B366F6?style=flat-square&logo=Google Optimize&logoColor=white"/>
-
 </p>
 <!--
 **100Developer/100Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
