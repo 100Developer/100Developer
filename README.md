@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![This is an image](resume_portrait.png)
 ![This is an image](fullstack.png)
 
 ## Design Stack
