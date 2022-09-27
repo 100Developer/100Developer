@@ -1,4 +1,5 @@
 ### Hi there 👋
+<p align="center"><img src="logo (1).png" width="200" height="auto" textalign="center"/></p>
 <p align="center"><img src="resume_portrait.png" width="300" height="auto" textalign="center"/></p>
 
 ![This is an image](fullstack.png)
