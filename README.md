@@ -5,7 +5,7 @@
 
 ## Design Stack
 <p>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Photoshop&logoColor=white"/>
 </p>
 
 ## Developer Stack
