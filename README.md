@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![This is an image](fullstack.png)
+
 <!--
 **100Developer/100Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
