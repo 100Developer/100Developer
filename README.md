@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![This is an image](resume_portrait.png) {: width="350" height="350"} {:center}
-<img src="resume_portrait.png" width="300" height="300" center/>
+<img src="resume_portrait.png" width="300" height="auto" textalign="center"/>
 ![This is an image](fullstack.png)
 
 ## Design Stack
