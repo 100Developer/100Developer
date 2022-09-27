@@ -4,7 +4,9 @@
 ![This is an image](fullstack.png)
 
 ## Design Stack
-![iOS badge](https://img.shields.io/badge/iOS-13.0%2B-green?style=flat&logo=appveyor&logo=Swift&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
+</p>
 
 ## Developer Stack
 
